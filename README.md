@@ -29,6 +29,7 @@ e)Build your first game using SFML library!
 
 3. Algorithm/ Software Design/Interface Design:
 Keyboard to control the characters:
+
 MARIO: 
 LEFT = J
 RIGHT = L
@@ -44,7 +45,7 @@ LEFT = Navigation keys LEFT
 RIGHT = Navigation keys RIGHT
 JUMP = Navigation key UP
 
-Keyboard to switch character and split the screen
+Keyboard to switch character and split the screen:
 Split the screen into two = E
 switch character (Mario <-> John) = Q
 

@@ -1,4 +1,4 @@
-# CSC-211_FINAL_PROJECT
+# CSC-211_FINAL_PROJECTS
 CSC-211 FINAL PROJECT
 A. Project Description: 
 [Mario and John taking their kids]
